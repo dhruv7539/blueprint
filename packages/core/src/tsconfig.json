@@ -3,5 +3,5 @@
     "compilerOptions": {
         "outDir": "../lib/esm"
     },
-    "exclude": ["design-tokens/build.ts", "design-tokens/sd.config.ts"]
+    "exclude": ["design-tokens/build.ts", "design-tokens/sd.config.ts", "**/*.stories.tsx", "**/*.stories.ts"]
 }
